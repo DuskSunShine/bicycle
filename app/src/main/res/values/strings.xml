@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BraveGoGo</string>
+    <string name="go">即刻出发</string>
+    <string name="finish">去完成身份认证</string>
+    <string name="order">行程记录</string>
+    <string name="wallet">钱包</string>
+    <string name="credit">信用</string>
+    <string name="invite">好友邀请</string>
+    <string name="feedback">问题反馈</string>
+    <string name="setting">设置</string>
+    <string name="headImg">头像</string>
+    <string name="nickName">昵称</string>
+    <string name="sexual">性别</string>
+    <string name="birth">生日</string>
+    <string name="authentication">实名认证</string>
+    <string name="changePsw">修改密码</string>
+    <string name="personalInfo">个人资料</string>
+    <string name="save">保存</string>
+    <string name="please_in">请输入昵称</string>
+    <string name="oldPsw">请输入旧密码</string>
+    <string name="newPsw">请输入6~16位新密码</string>
+    <string name="confirmPsw">请确认新密码</string>
+    <string name="msg">密码为6-16位，可包含数字、字母、特殊字符</string>
+    <string name="payauthr">交纳押金</string>
+    <string name="travelRecord">行程记录</string>
+    <string name="coupon">优惠券</string>
+    <string name="deposit">押金</string>
+    <string name="friend">好友邀请</string>
+    <string name="noting">更多问题选择</string>
+    <string name="scan">获取单车编号</string>
+</resources>
